@@ -1,9 +1,10 @@
 #include <stdio.h>
-/*
+/**
 * main - Entry point
 * Description: Print alphabet in reverse
-* Return: * 0
+* Return: Always 0
 */
+
 int main(void)
 {
 	int n = 122;
